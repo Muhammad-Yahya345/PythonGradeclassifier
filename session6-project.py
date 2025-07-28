@@ -87,4 +87,4 @@ print("\nKeep working hard and keep learning! \n")
 # 💡 Notes for learners:
 # - Arithmetic: + for addition, / for division, () controls order (precedence).
 # - Comparison: >= checks "greater than or equal to".
-# - A comparison returns True or False, which we can print as a result.
+# - A comparison returns True or False, which we can print as a result. Have fun.
